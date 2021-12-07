@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Documentation portfolio
 
-You can use the [editor on GitHub](https://github.com/bmansheim/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The links below represent work that I have done in previous positions:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Upgrading Redis Enterprise Software](https://docs.redislabs.com/latest/rs/installing-upgrading/upgrading/)
 
-### Markdown
+[Adding a Cluster Node](https://docs.redislabs.com/latest/rs/administering/adding-node/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Database Persistence with Redis Enterprise Software](https://docs.redislabs.com/latest/rs/concepts/data-access/persistence/)
 
-```markdown
-Syntax highlighted code block
+[High Availability for Slave Shards](https://docs.redislabs.com/latest/rs/administering/database-operations/slave-ha/)
 
-# Header 1
-## Header 2
-### Header 3
+[CRDB-CLI Commands](https://docs.redislabs.com/latest/rs/references/crdb-cli-reference/)
 
-- Bulleted
-- List
+[Configuring the Zone List](https://forum.tufin.com/support/kc/R19-1/3402.htm)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmansheim/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Requesting Access to an Application](https://forum.tufin.com/support/kc/R19-1/request_app_access.htm)
