@@ -24,6 +24,6 @@ The links below represent work that I have done in previous positions:
 
 ### Industry articles
 
-[Can you improve quality with open source docs?](https://drive.google.com/drive/u/0/folders/10NEn_7vVlby8hML1Z9MpmJ198m1KUQsX)
+[Can you improve quality with open source docs?](https://drive.google.com/file/d/1ojXOiBUpS63GpR_vcPN_va3jXUe_NKwg/view)
 
-[Open source and docs - do they mix?](https://drive.google.com/drive/u/0/folders/10NEn_7vVlby8hML1Z9MpmJ198m1KUQsX)
+[Open source and docs - do they mix?](https://drive.google.com/file/d/1IyF0JZx6b8teFwdnN_Ile4LHcT0Z4FF1/view)
