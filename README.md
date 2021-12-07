@@ -6,7 +6,7 @@ Notes:
 
 - More recent articles are listed first
 - Some links point to web.archive.org to present the pages as they were when I wrote them.
-- The Â character is an anomoly of the web.archive.org site.
+- The Â character is an anomaly of the web.archive.org site.
 
 ### Instructional articles
 
