@@ -1,8 +1,6 @@
-## Documentation portfolio
+## Ben Mansheim's docs portfolio
 
 The links below represent work that I have done in previous positions:
-
-Notes:
 
 - More recent articles are listed first
 - Some links point to web.archive.org to present the pages as they were when I wrote them.
