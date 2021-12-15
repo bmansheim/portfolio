@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+author:
+  name   : "Ben Mansheim"
+  # avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Technical Content Developer, Doc Specialist, Tech writer, Doc Engineer, Information Curator, ...."
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/bmansheim/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bmansheim"
