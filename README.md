@@ -37,3 +37,7 @@ The links below represent work that I have done in previous positions:
 [Can you improve quality with open source docs?](https://drive.google.com/file/d/1ojXOiBUpS63GpR_vcPN_va3jXUe_NKwg/view)
 
 [Open source and docs - do they mix?](https://drive.google.com/file/d/1IyF0JZx6b8teFwdnN_Ile4LHcT0Z4FF1/view)
+
+### Conference presentations
+
+[GitHub for Beginners](https://docs.google.com/presentation/d/1c0CHsHUQFZt9LPrcRjk6wST7C3R4F2dcpy8BZHJzCKM)
