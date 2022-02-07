@@ -41,5 +41,3 @@ The links below represent work that I have done in previous positions:
 ### Conference presentations
 
 [GitHub for Beginners](https://docs.google.com/presentation/d/1c0CHsHUQFZt9LPrcRjk6wST7C3R4F2dcpy8BZHJzCKM)
-
-[State of Docs as Code 20222](https://docs.google.com/presentation/d/1kIMq3Fl9IRKk3tbZZZIK-ZrKTNF1LMtiCHCLrVXgxxw)
