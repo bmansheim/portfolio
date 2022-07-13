@@ -1,13 +1,13 @@
 theme: jekyll-theme-minimal
 
 author:
-  name   : "Ben Mansheim"
+  name   : "Ariel BLum"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical Content Developer, Doc Specialist, Tech writer, Doc Engineer, Information Curator, ...."
+  bio    : "Clinical Data scientist"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/bmansheim/"
+      url: "Place holder"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bmansheim"
+      url: "https://github.com/ab3263266"
